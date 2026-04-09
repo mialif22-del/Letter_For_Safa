@@ -7,6 +7,8 @@ const yesBtn = document.querySelector(".btn[alt='Yes']");
 const title = document.getElementById("letter-title");
 const catImg = document.getElementById("letter-cat");
 const buttons = document.getElementById("letter-buttons");
+const preloadImg = new Image();
+preloadImg.src = "cat_dance.gif";
 const finalText = document.getElementById("final-text");
 
 // Click Envelope
