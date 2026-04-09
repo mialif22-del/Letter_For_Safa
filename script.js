@@ -69,6 +69,8 @@ yesBtn.addEventListener("click", () => {
 });
 
     title.textContent = "Yippeeee!";
+     title.textContent = "I know you want it. Hehehe...";
+
 
     catImg.src = "cat_dance.gif";
 
